@@ -1,0 +1,21 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+	background-color: #ffffff;
+}
+.navbar .navbar-toggle{
+	border-color: #ddd;
+}
+.navbar-right > button   { color: #888;
+}
+.masthead .nav > li > a {
+	color:#333;
+	font-size:20px;
+}
+.homepage > div[role=main]{
+	background-image: url("https://images.unsplash.com/photo-1597543177355-e874cee9dee8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1336&q=786");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;}
